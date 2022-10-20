@@ -1,0 +1,12 @@
+D:\rvm\Crypto\ProtectBot\ProtectBot\bin\Release\ProtectBot.exe.config
+D:\rvm\Crypto\ProtectBot\ProtectBot\bin\Release\ProtectBot.exe
+D:\rvm\Crypto\ProtectBot\ProtectBot\bin\Release\ProtectBot.pdb
+D:\rvm\Crypto\ProtectBot\ProtectBot\bin\Release\Newtonsoft.Json.dll
+D:\rvm\Crypto\ProtectBot\ProtectBot\bin\Release\RestSharp.dll
+D:\rvm\Crypto\ProtectBot\ProtectBot\bin\Release\Newtonsoft.Json.xml
+D:\rvm\Crypto\ProtectBot\ProtectBot\bin\Release\RestSharp.xml
+D:\rvm\Crypto\ProtectBot\ProtectBot\obj\Release\ProtectBot.csprojAssemblyReference.cache
+D:\rvm\Crypto\ProtectBot\ProtectBot\obj\Release\ProtectBot.csproj.CoreCompileInputs.cache
+D:\rvm\Crypto\ProtectBot\ProtectBot\obj\Release\ProtectBot.csproj.CopyComplete
+D:\rvm\Crypto\ProtectBot\ProtectBot\obj\Release\ProtectBot.exe
+D:\rvm\Crypto\ProtectBot\ProtectBot\obj\Release\ProtectBot.pdb
